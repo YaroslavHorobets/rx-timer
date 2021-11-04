@@ -1,7 +1,7 @@
 {
   "name": "rx-timer",
   "version": "0.1.0",
-  "homepage": "https://github.com/YaroslavHorobets/rx-timer",
+  "homepage": "https://yaroslavhorobets.github.io/rx-timer/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.15.0",
